@@ -6,6 +6,10 @@
 	border-width: 0 0 1px 0;
 	border-color: orange;
 	box-shadow: 2px 2px 3px #333;
+
+	transition-property: left;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out;
 }
 #menu ul{
 	list-style: none;
