@@ -1,8 +1,8 @@
 document.onscroll = function () {
 	var menu = document.getElementById("menu");
 	if(window.pageYOffset > 10){
-		menu.style.left = "-1000px";
+		menu.style.display = "none";
 	}else{
-		menu.style.left = "0px";
+		menu.style.display = "block";
 	}
 }

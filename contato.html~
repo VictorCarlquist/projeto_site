@@ -1,0 +1,39 @@
+<!DOCYTYPE html>
+<html>
+	<head>
+		<meta charset="utf8">
+		<link rel="stylesheet" type="text/css" href="estilo.css">
+		<link rel="stylesheet" type="text/css" href="menu.css">
+	</head>
+	<body>
+		<div id="container">
+			<nav>
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="ps3.html">PS3</a></li>
+					<li><a href="ps4.html">PS4</a></li>
+					<li><a href="xbox.html">Xbox One</a></li>
+					<li><a href="cadastro.html">Cadastro</a></li>
+				</ul>
+			</nav>
+			<header>
+				<h1>A Nota dos Games</h1>
+			</header>
+			<article>
+				<p>
+					Mande-nos sua mensagem! Basta preencher o formulário abaixo! Responderemos assim que nosso site for implementado!
+				</p>
+				<form>
+					Nome: <input type="text" name="nome" id="nome" size="39" maxlength="60">
+					E-mail: <input type="email" name="email" id="email" size="39" maxlength="60">
+					Mensagem: <br> <textarea rows="10" cols="50" name="msg" id="msg"> </textarea>
+					<input type="submit" value="Enviar" id="enviar">
+				</form>
+			</article>
+			<footer>
+				&copy; 2014 - Victor Hugo Carlquist da Silva e Guilherme Agusto de Macedo - Todos os direitos Reservados. 
+			</footer>
+		</div>
+		<!--script src="main.js"></script -->
+	</body>
+</html>
