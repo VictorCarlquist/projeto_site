@@ -1,4 +1,4 @@
-nav{
+#menu{
 	position: fixed;
 	width: 100%;
 	left: 0px;
@@ -14,31 +14,39 @@ nav{
     transition-duration: 0.3s;
     transition-timing-function: ease-out;
 }
-nav ul{
+#menu li:hover{
+	background-color: #00f;
+	left: 0px;
+}
+#menu ul{
 	list-style: none;
 	text-align: center;
 	padding: 0;
 	margin: 0;
 }
-nav li{
+#menu li{
 	display: inline;
 	margin: 0px;
 }
-nav a{
-	color:#ccc;
+#menu a{
+	color:#eee;
 	display: inline-block;
 	text-align: center;
 	padding: 10px 0;
-	width:100px;
+	width: 100px;
 	border-width: 0 1px;
 	border-style: solid;
 	border-color: #333;  
 	text-decoration: none;
 	margin: 0;
-	font-family: verdana 14px;
+	font-family: verdana;
+	font-size: 16px;
 }
-nav a:hover{
+#menu a:hover{
 	background: linear-gradient(#999, #bbb, orange);
 	color: #111;
 	text-shadow: 1px 1px 3px  orange;
 }
+
+
+
