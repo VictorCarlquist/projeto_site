@@ -1,8 +1,0 @@
-document.onscroll = function () {
-	var menu = document.getElementById("menu");
-	if(window.pageYOffset > 10){
-		menu.style.display = "none";
-	}else{
-		menu.style.display = "block";
-	}
-}
