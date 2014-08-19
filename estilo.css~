@@ -2,8 +2,8 @@ body {
 	width: 100%;
 	margin: 0px;
 	padding: 0px;
-	font-family: verdana;
-	font-size: 12px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
 }
 
 #container{
@@ -34,7 +34,7 @@ article{
 }
 
 article ul {
-	list-style-position: inside;
+    list-style-position: inside;
     list-style-type: square;
     padding-left: 0px;
     margin-left: 20px;
@@ -42,6 +42,36 @@ article ul {
 
 article li {
 	text-indent: 10px;
+}
+
+#cassificacao {
+	width: 100%;
+	padding: 10px;
+}
+
+table {
+    width: 98%;
+    border-collapse: collapse;
+}
+
+td, th {
+    font-size: 1em;
+    border: 1px solid #2F4F4F;
+    padding: 3px 7px 2px 7px;
+}
+
+th {
+    font-size: 1.1em;
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom: 4px;
+    background-color: #2F4F4F;
+    color: #ffffff;
+}
+
+tr.alt td {
+    color: #000000;
+    background-color: #EAF2D3;
 }
 
 #ps3 {

@@ -20,6 +20,27 @@
 				<h1>A Nota dos Games</h1>
 			</header>
 			<article>
+				<div id="cassificacao">
+					<table>
+						<tr >
+							<th>Posição</th><th>Nome do Jogo</th><th>Nota</th><th>Plataforma</th>
+						</tr>
+						<tr>
+							<td> 01</td><td>Grand Theft Auto V </td><td> 9.7</td><td>PS3</td>
+						</tr>
+						<tr class="alt">
+							<td> 02</td><td>The Last Of Us </td><td> 9.7</td><td>PS3</td>
+						</tr>
+						<tr class="alt">
+							<td> 03</td><td>Bioshock Infite</td><td> 9.7</td><td>PS3</td>
+						</tr>
+						<tr>
+							<td> 04</td><td>Tomb Raider</td><td> 9.7</td><td>PS3</td>
+						</tr>						
+					</table>
+				</div>
+			</article>
+			<article>
 				<img src="img/gtav.jpg">
 O novo título da franquia traz de volta grandes elementos do tão adorado GTA San Andreas e muitas novidades. Desta vez há três protagonistas jogáveis, cada um com habilidades exclusivas: Michael, um cara rico de meia-idade; Franklin, um mal-encarado que vive nos subúrbios da cidade de Los Santos e Trevor, um ex-militar sociopata. No mínimo o que se podia esperar de um novo título da Rockstar. Outras funcionalidades estão de volta, como a possibilidade de comprar propriedades pelo mapa. As habilidades do personagem também voltarão a ser um destaque (como força e resistência), e serão melhoradas conforme se joga ou se treina. Bicos para conseguir dinheiro também não faltará, sejam eles "legais" ou ilegais, como assaltar um carro-forte por exemplo. E não pára por aí: é possível modificar armas, carros e até mesmo o personagem com cortes de cabelo e tatuagens. É possível explorar o fundo do mar e, claro, o gigantesco mapa. 
 
@@ -51,7 +72,7 @@ BioShock: Infinite é o novo título da série que vem conquistando cada vez mai
 			</article>
 			
 			<article>
-			<img src="img/ps3_tombraider.jpg">
+			<img src="img/ps3_tombrider.jpg">
 O novo Tomb Raider traz a história de como a aclamada heroína dos games começou sua carreira. Ou melhor: contar a história de como foi a primeira aventura de Lara Croft que a tornou a caçadora de tumbas que tanto conhecemos. Tudo se inicia quando ela está perdida em uma ilha no meio do Pacífico. Sozinha, ela deverá sobreviver utilizando os poucos recursos ao seu redor, aprendendo da maneira mais difícil e tendo sua vida por um fio diversas vezes. Acompanhe de perto a evolução desta personagem: desde uma garota assustada e perdida até uma mulher corajosa, capaz de encarar diversos perigos. Em questões técnicas, a equipe desenvolveu uma jogabilidade maleável unido à uma física realista, de forma que os enigmas e desafios tornem-se muito mais dinâmicos e interessantes. A capacidade gráfica foi capaz de criar ambientes ultra realistas de uma beleza estonteante, lugares belos e ao mesmo tempo perigosos. Um título que vale troféu de ouro para os fãs da aclamada série Tomb Raider.
 
 				<ul>

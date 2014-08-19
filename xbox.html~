@@ -20,6 +20,27 @@
 				<h1>A Nota dos Games</h1>
 			</header>
 			<article>
+				<div id="cassificacao">
+					<table>
+						<tr >
+							<th>Posição</th><th>Nome do Jogo</th><th>Nota</th><th>Plataforma</th>
+						</tr>
+						<tr class="alt">
+							<td> 01</td><td>Rayman Legends </td><td> 9.2</td><td>Xbox One</td>
+						</tr>
+						<tr>
+							<td> 02</td><td>Battlefield 4</td><td> 8.2</td><td>Xbox One</td>
+						</tr>
+						<tr class="alt">
+							<td> 03</td><td>Fifa 14</td><td> 8.1</td><td>Xbox One</td>
+						</tr>
+						<tr>
+							<td> 04</td><td>Forza Motorsport 5</td><td> 8.0</td><td>Xbox One</td>
+						</tr>						
+					</table>
+				</div>
+			</article>
+			<article>
 				<img src="img/rayman.jpg">
 Que tal uma nova aventura com nosso pequeno grande herói? Pois Rayman Legends traz uma jornada que continua a já vista em Rayman Origins. Utilizando as novas funcionalidades do Wii U, o jogo traz interações inovadoras nunca antes vistas nos jogos tradicionais. Com o controle do Wii U você usará as novas tecnologias para enfrentar seus inimigos e manipular e rotacionar plataformas em sua TV — tudo isso tocando na tela de seu controle! E que tal jogar apenas pelo controle? É possível jogar apenas na pequena tela e continuar suas aventuras mesmo com a televisão desligada.
 
@@ -48,6 +69,7 @@ FIFA 14 chegou para marcar a nova era da franquia! A realidade e a imersão est�
 				</ul>
 			</article>
 			<article>
+				<img src="img/xbox_forza.jpg">
 Prepare-se para acelerar novamente no mais novo capítulo de uma das franquias de maior sucesso de simuladores de corrida! Forza Motorsport 5 surpreende a todos com um visual espetacular, sem contar as pistas e carros fiéis e prontos para proporcionar aos jogadores as melhores experiências em velocidade e adrenalina. Que tal pisar fundo em seu Xbox One? Esta é a hora!
 				<ul>
 					<li>Lançamento: 22/11/2013</li>
