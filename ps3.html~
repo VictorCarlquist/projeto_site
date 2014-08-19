@@ -25,17 +25,17 @@
 						<tr >
 							<th>Posição</th><th>Nome do Jogo</th><th>Nota</th><th>Plataforma</th>
 						</tr>
-						<tr>
+						<tr class="alt">
 							<td> 01</td><td>Grand Theft Auto V </td><td> 9.7</td><td>PS3</td>
 						</tr>
-						<tr class="alt">
-							<td> 02</td><td>The Last Of Us </td><td> 9.7</td><td>PS3</td>
+						<tr >
+							<td> 02</td><td>The Last Of Us </td><td> 9.5</td><td>PS3</td>
 						</tr>
 						<tr class="alt">
-							<td> 03</td><td>Bioshock Infite</td><td> 9.7</td><td>PS3</td>
+							<td> 03</td><td>Bioshock Infite</td><td> 9.4</td><td>PS3</td>
 						</tr>
 						<tr>
-							<td> 04</td><td>Tomb Raider</td><td> 9.7</td><td>PS3</td>
+							<td> 04</td><td>Tomb Raider</td><td> 8.7</td><td>PS3</td>
 						</tr>						
 					</table>
 				</div>
