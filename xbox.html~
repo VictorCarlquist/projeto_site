@@ -7,7 +7,7 @@
 	</head>
 	<body>
 		<div id="container">
-			<nav>
+			<nav id="menu">
 				<ul>
 					<li><a href="index.html">Home</a></li>
 					<li><a href="ps3.html">PS3</a></li>
@@ -29,13 +29,13 @@
 							<td> 01</td><td>Rayman Legends </td><td> 9.2</td><td>Xbox One</td>
 						</tr>
 						<tr>
-							<td> 02</td><td>Battlefield 4</td><td> 8.2</td><td>Xbox One</td>
+							<td> 02</td><td>Battlefield 4</td><td> 8.6</td><td>Xbox One</td>
 						</tr>
 						<tr class="alt">
-							<td> 03</td><td>Fifa 14</td><td> 8.1</td><td>Xbox One</td>
+							<td> 03</td><td>Fifa 14</td><td> 8.6</td><td>Xbox One</td>
 						</tr>
 						<tr>
-							<td> 04</td><td>Forza Motorsport 5</td><td> 8.0</td><td>Xbox One</td>
+							<td> 04</td><td>Forza Motorsport 5</td><td> 8.1</td><td>Xbox One</td>
 						</tr>						
 					</table>
 				</div>
@@ -81,6 +81,6 @@ Prepare-se para acelerar novamente no mais novo capítulo de uma das franquias d
 				&copy; 2014 - Victor Hugo Carlquist da Silva e Guilherme Agusto de Macedo - Todos os direitos Reservados. 
 			</footer>
 		</div>
-		<!--script src="main.js"></script -->
+		<script src="main.js"></script>
 	</body>
 </html>

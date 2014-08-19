@@ -7,7 +7,7 @@
 	</head>
 	<body>
 		<div id="container">
-			<nav>
+			<nav id="menu">
 				<ul>
 					<li><a href="index.html">Home</a></li>
 					<li><a href="ps3.html">PS3</a></li>
@@ -50,6 +50,15 @@ Battlefield 4 chegou para reescrever os jogos de guerra, sendo o título definit
 				</ul>
 			</article>
 			<article>
+				<img src="img/ps4_blackflag.jpg">
+O novo jogo da aclamada franquia Assassin's Creed tem agora como palco a fatídica Era Dourada da Pirataria, época esta repleta de histórias inacreditáveis e lendas que vivem até hoje. Na pele de Edward Kenway, um galês carismático e ganancioso, o jogador irá vivenciar a guerra entre ingleses e espanhóis, descobrindo o que ocorre por debaixo dos panos envolvendo os Assassinos e os Templários. A história se passa nos mares das Caraíbas durante o ano de 1715 e desta vez o mapa será muito maior, existindo cerca de 50 lugares únicos para se explorar. Prometendo longas horas de jogabilidade, o novo título inclui componentes navais assim como seu antecessor. Grandes nomes de piratas como Barba N... Leia o resumo completo O novo jogo da aclamada franquia Assassin's Creed tem agora como palco a fatídica Era Dourada da Pirataria, época esta repleta de histórias inacreditáveis e lendas que vivem até hoje. Na pele de Edward Kenway, um galês carismático e ganancioso, o jogador irá vivenciar a guerra entre ingleses e espanhóis, descobrindo o que ocorre por debaixo dos panos envolvendo os Assassinos e os Templários. A história se passa nos mares das Caraíbas durante o ano de 1715 e desta vez o mapa será muito maior, existindo cerca de 50 lugares únicos para se explorar. Prometendo longas horas de jogabilidade, o novo título inclui componentes navais assim como seu antecessor. Grandes nomes de piratas como Barba Negra, Charles Vane, Benjamin Horningold e outros são vistos durante o enredo seja como aliados ou inimigos, enriquecendo ainda mais a jogabilidade. A bordo do navio Jackdaw, os jogadores irão ter uma experiência ainda mais profunda no primeiro jogo realista e naval em mundo aberto, ainda mais na era dos Piratas e sem perder a originalidade da série.
+				<ul>
+					<li>Lançamento: 12/11/2013</li>
+					<li>Tipo de jogo: Ação</li>
+					<li>Desenvolvedora: Ubisoft</li>
+				</ul>
+			</article>
+			<article>
 				<img src="img/watchdogs.jpg">
 Watch Dogs é o novo título da Ubisoft, desta vez colocando o jogador na pele de Aiden Pearce, um vigilante que faz a justiça utilizando seus punhos e perspicácia, perseguindo todos aqueles que fogem da lei. No entanto o próprio Aiden é um fora-da-lei procurado, e mesmo assim ele usa suas habilidades de hacker para conseguir informações e continuar seu trabalho. Com a ajuda de outros Watch Dogs (vigilantes) na mesma situação, Aiden tem uma longa e perigosa jornada para limpar seu nome.
 	<ul>
@@ -68,19 +77,11 @@ No mundo de inFamous existem os superhumanos, seres capazes de feitos incríveis
 					<li>Desenvolvedora: Sucker Punch</li>
 				</ul>
 			</article>
-			<article>
-				<img src="img/ps4_blackflag.jpg">
-O novo jogo da aclamada franquia Assassin's Creed tem agora como palco a fatídica Era Dourada da Pirataria, época esta repleta de histórias inacreditáveis e lendas que vivem até hoje. Na pele de Edward Kenway, um galês carismático e ganancioso, o jogador irá vivenciar a guerra entre ingleses e espanhóis, descobrindo o que ocorre por debaixo dos panos envolvendo os Assassinos e os Templários. A história se passa nos mares das Caraíbas durante o ano de 1715 e desta vez o mapa será muito maior, existindo cerca de 50 lugares únicos para se explorar. Prometendo longas horas de jogabilidade, o novo título inclui componentes navais assim como seu antecessor. Grandes nomes de piratas como Barba N... Leia o resumo completo O novo jogo da aclamada franquia Assassin's Creed tem agora como palco a fatídica Era Dourada da Pirataria, época esta repleta de histórias inacreditáveis e lendas que vivem até hoje. Na pele de Edward Kenway, um galês carismático e ganancioso, o jogador irá vivenciar a guerra entre ingleses e espanhóis, descobrindo o que ocorre por debaixo dos panos envolvendo os Assassinos e os Templários. A história se passa nos mares das Caraíbas durante o ano de 1715 e desta vez o mapa será muito maior, existindo cerca de 50 lugares únicos para se explorar. Prometendo longas horas de jogabilidade, o novo título inclui componentes navais assim como seu antecessor. Grandes nomes de piratas como Barba Negra, Charles Vane, Benjamin Horningold e outros são vistos durante o enredo seja como aliados ou inimigos, enriquecendo ainda mais a jogabilidade. A bordo do navio Jackdaw, os jogadores irão ter uma experiência ainda mais profunda no primeiro jogo realista e naval em mundo aberto, ainda mais na era dos Piratas e sem perder a originalidade da série.
-				<ul>
-					<li>Lançamento: 12/11/2013</li>
-					<li>Tipo de jogo: Ação</li>
-					<li>Desenvolvedora: Ubisoft</li>
-				</ul>
-			</article>
+
 			<footer>
 				&copy; 2014 - Victor Hugo Carlquist da Silva e Guilherme Agusto de Macedo - Todos os direitos Reservados. 
 			</footer>
 		</div>
-		<!--script src="main.js"></script -->
+		<script src="main.js"></script>
 	</body>
 </html>

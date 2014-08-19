@@ -7,7 +7,7 @@
 	</head>
 	<body>
 		<div id="container">
-			<nav>
+			<nav id="menu">
 				<ul>
 					<li><a href="index.html">Home</a></li>
 					<li><a href="ps3.html">PS3</a></li>
@@ -86,6 +86,6 @@ O novo Tomb Raider traz a história de como a aclamada heroína dos games começ
 				&copy; 2014 - Victor Hugo Carlquist da Silva e Guilherme Agusto de Macedo - Todos os direitos Reservados. 
 			</footer>
 		</div>
-		<!--script src="main.js"></script -->
+		<script src="main.js"></script>
 	</body>
 </html>
