@@ -1,3 +1,13 @@
+.ps3_color{
+	background: linear-gradient(to left, #aaa, white, white);
+}
+.ps4_color{
+	background: linear-gradient(to left, #0065a9, white, white);
+}
+.xbox_color{
+	background: linear-gradient(to left, #0a0, white, white);	
+}
+
 html, body {
 	width: 100%;
 	height: 100%;
@@ -38,10 +48,11 @@ article{
 }
 
 article ul {
+	width: 400px;
     list-style-position: inside;
     list-style-type: square;
     padding-left: 0px;
-    margin-left: 20px;
+    margin-left: 10px;
 }
 
 article li {
@@ -78,6 +89,21 @@ tr.alt td {
     background-color: #EAF2D3;
 }
 
+#info{
+    visibility: hidden;
+	opacity: 0;
+	width: 40%;
+    float: left;
+	margin-left: 50px;
+	overflow: auto;
+	height: 250px;
+	padding: 10px;
+	transition-property: opacity;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+    transition-delay: 0.6s;
+}
+
 #ps3 {
 	width: 45%;
 	float: left;
@@ -97,6 +123,14 @@ tr.alt td {
 #ps3:hover {
 	box-shadow:  0px 0px 20px 5px #111;
 	width: 95%;
+}
+#ps3:hover #game_info{
+	float: left;
+}
+
+#ps3:hover #info {
+    visibility: visible;
+	opacity: 1;
 }
 
 #ps4 {
@@ -200,3 +234,4 @@ article p {
 	font-size: 14px;
 	font-weight: bold;
 }
+
