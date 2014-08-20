@@ -7,7 +7,23 @@
 .xbox_color{
 	background: linear-gradient(to left, #0a0, white, white);	
 }
-
+.container_text{
+	perspective: 1000px;
+	padding: 50px;
+}
+.container_text img{
+	transition:all 1s ease-in-out;
+	transform-style: preserve-3d;
+	transform: rotateY(40deg);
+	width: 20%;
+	margin: 20px;
+	box-shadow: -5px 5px 5px black;
+}
+.container_text img:hover{
+	transform-style: preserve-3d;
+	transform: rotateY(0deg);
+	box-shadow: 0px 5px 5px black;
+}
 html, body {
 	width: 100%;
 	height: 100%;
@@ -39,11 +55,11 @@ header h1 {
 }
 
 article{
-	background: linear-gradient(to right, white, orange, orange);
+	background: linear-gradient(to right, white, white, orange);
 	text-align: justify;
 	padding: 5px;
 	min-height: 200px;
-	overflow: auto;
+	overflow: hidden;
 	box-shadow: 30px 0 30px -30px black, -30px 0 30px -30px black;
 }
 
@@ -98,6 +114,7 @@ tr.alt td {
 	overflow: auto;
 	height: 250px;
 	padding: 10px;
+
 	transition-property: opacity;
     transition-duration: 0.5s;
     transition-timing-function: linear;
@@ -124,7 +141,8 @@ tr.alt td {
 	box-shadow:  0px 0px 20px 5px #111;
 	width: 95%;
 }
-#ps3:hover #game_info{
+
+#game_info{
 	float: left;
 }
 
@@ -155,11 +173,16 @@ tr.alt td {
 	width: 90%;
 }
 
+#ps4:hover #info {
+    visibility: visible;
+	opacity: 1;
+}
+
 #xbox {
 	width: 45%;
 	padding: 10px;
 	margin: 10px;
-	height: 500px;
+	height: 300px;
 	float: left;
 	background-color: white;
 	clear: both;
@@ -175,6 +198,11 @@ tr.alt td {
 #xbox:hover {
 	box-shadow:  0px 0px 20px 5px #0e0;
 	width: 90%;
+}
+
+#xbox:hover #info {
+    visibility: visible;
+	opacity: 1;
 }
 
 article img {
@@ -233,5 +261,10 @@ input {
 article p {
 	font-size: 14px;
 	font-weight: bold;
+}
+
+#contato{
+	width: 500px;
+	margin:auto;
 }
 
